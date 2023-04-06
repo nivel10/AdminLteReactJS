@@ -6,4 +6,5 @@ node_modules/
 build
 build/
 
+#region Ignore Mac files
 **/.DS_Store
