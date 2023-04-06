@@ -5,3 +5,5 @@ node_modules/
 #region Ignore build files
 build
 build/
+
+**/.DS_Store
