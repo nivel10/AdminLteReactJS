@@ -1,0 +1,7 @@
+#region Ignre node modules
+node_modules
+node_modules/
+
+#region Ignore build files
+build
+build/
